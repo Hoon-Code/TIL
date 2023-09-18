@@ -10,3 +10,6 @@ git congif --global user.email<email>
 ## 명령어 ( 앞에 . 있는 파일은 숨김파일)
 - `git init`
     -`.git` git repository를 생성 하는 명령어
+-`git add .`
+
+-`git commit -m "first commit"`
